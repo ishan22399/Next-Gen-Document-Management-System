@@ -1,7 +1,7 @@
-# 📄 DocManager
+# 📄 Next-Gen Document Management System
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/69488528/236614389-9b7b6e5f-eda3-4e22-a73c-4c5c4faff6d7.png" alt="DocManager Logo" width="200">
+  <img src="https://img.freepik.com/free-vector/organized-archive-searching-files-database_335657-3137.jpg?ga=GA1.1.1687168769.1727612191&semt=ais_hybrid&w=740" alt="DocManager Logo">
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@ Featuring a sleek, responsive interface optimized for both desktop and mobile, D
 
 Explore DocManager in action! Our demo showcases the complete workflow: Upload ➡️ Encrypt ➡️ Search ➡️ Verify ➡️ Log.
 
-[Watch the full demo on Google Drive](https://drive.google.com/your-demo-link)
+[Watch the full demo on Google Drive](https://drive.google.com/file/d/1giTkAmWYzmX4qj2xtrcRhWkZP8Y9jKSr/view?usp=sharing)
 
 ## 🛠️ Technologies <a name="technologies"></a>
 
