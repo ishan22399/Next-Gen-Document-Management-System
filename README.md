@@ -1,10 +1,6 @@
 # 📄 DocManager
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/69488528/236614389-9b7b6e5f-eda3-4e22-a73c-4c5c4faff6d7.png" alt="DocManager Logo" width="200">
-</p>
-
-<p align="center">
   <a href="#features">Features</a> •
   <a href="#demo">Demo</a> •
   <a href="#technologies">Technologies</a> •
@@ -15,14 +11,21 @@
   <a href="#license">License</a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/ishan22399/Next-Gen-Document-Management-System/stargazers"><img src="https://img.shields.io/github/stars/ishan22399/Next-Gen-Document-Management-System?style=social" alt="GitHub stars"></a>
+  <a href="https://github.com/ishan22399/Next-Gen-Document-Management-System/network/members"><img src="https://img.shields.io/github/forks/ishan22399/Next-Gen-Document-Management-System?style=social" alt="GitHub forks"></a>
+  <a href="https://github.com/ishan22399/Next-Gen-Document-Management-System/issues"><img src="https://img.shields.io/github/issues/ishan22399/Next-Gen-Document-Management-System" alt="GitHub issues"></a>
+  <a href="https://github.com/ishan22399/Next-Gen-Document-Management-System/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishan22399/Next-Gen-Document-Management-System" alt="License"></a>
+</p>
+
 ---
 
 ## 📋 Introduction
 
 **DocManager** is a next-generation, cloud-based document management system designed for secure storage, rapid search, and tamper-proof verification of documents. Built with Flask, AWS, and blockchain-inspired technology, it ensures your data is always protected and verifiable.
 
-- **Motivation:** To provide a secure, transparent, and efficient way to manage and verify documents in the cloud.
-- **Problem Solved:** Eliminates document tampering, streamlines search, and provides full auditability for compliance and trust.
+- **Motivation:** Provide a secure, transparent, and efficient way to manage and verify documents in the cloud.
+- **Why:** Eliminate document tampering, streamline search, and provide full auditability for compliance and trust.
 - **What Makes It Stand Out:** Combines AES encryption, Merkle tree verification, and blockchain logging in a user-friendly, responsive interface.
 
 ---
@@ -60,10 +63,9 @@
 See DocManager in action! Watch the full workflow: Upload ➡️ Encrypt ➡️ Search ➡️ Verify ➡️ Log.
 
 <p align="center">
-  <video width="480" controls>
-    <source src="https://drive.google.com/uc?export=download&id=1giTkAmWYzmX4qj2xtrcRhWkZP8Y9jKSr" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <a href="https://drive.google.com/file/d/1giTkAmWYzmX4qj2xtrcRhWkZP8Y9jKSr/view?usp=drive_link" target="_blank">
+    <img src="https://img.icons8.com/color/480/google-drive--v2.png" alt="Watch Demo on Google Drive" width="180">
+  </a>
 </p>
 
 [Watch the full demo on Google Drive](https://drive.google.com/file/d/1giTkAmWYzmX4qj2xtrcRhWkZP8Y9jKSr/view?usp=drive_link)
